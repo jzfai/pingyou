@@ -1,0 +1,8 @@
+#spring:
+#  cloud:
+#    config:
+#      name: pinyou-registry
+#      profile: dev
+#      label: master
+#      uri: http://11.0.0.210:5001
+
